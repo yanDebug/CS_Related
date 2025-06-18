@@ -15,7 +15,7 @@
 | 输入法            | 微软拼音/小狼毫输入法(开源)                                |                                                              |
 | 云盘              | OneDrive(微软云盘)/Google Drive(谷歌云盘)/MEGA(客户端闭源) | MEGA加密性最强                                               |
 | 代码编辑器        | Visual Studio Code/Notepad++                               | VS code从本质上来说下载的安装包没有开源，完全开源版本需要自行编译 |
-| 视频播放器        | VLC(开源)/PotPlayer(违反 FFmepg 许可证)                    |                                                              |
+| 视频播放器        | VLC(开源)/PotPlayer(违反 FFmpeg 许可证)                    |                                                              |
 | 公式编辑器        | MathType                                                   | 试用一个月                                                   |
 | 邮件客户端        | Thunderbird(开源)                                          |                                                              |
 | 文献管理工具      | Zotero(开源)                                               |                                                              |
